@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TVL Auction Scan
+## Notes: Scannt Auktionshaus-Daten und speichert sie für spätere Auswertung
+## Author: TVL
+## Version: 1.0
+
+TVLAuctionScan.lua
